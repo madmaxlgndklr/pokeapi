@@ -1,0 +1,15 @@
+{
+  "id": "trig_01TGK8efUBKyYt9tdVpxGRoA",
+  "name": "pokeapi-upstream-sync",
+  "cron_expression": "0 7 * * *",
+  "schedule_human": "Daily at 03:00 EDT (07:00 UTC)",
+  "enabled": true,
+  "environment_id": "env_01Nz2s1bPVUr6zAnJ9RjpDez",
+  "model": "claude-sonnet-4-6",
+  "created_at": "2026-05-24T19:14:16.486030Z",
+  "updated_at": "2026-05-24T19:19:52.341795Z",
+  "routine_url": "https://claude.ai/code/routines/trig_01TGK8efUBKyYt9tdVpxGRoA",
+  "upstream": "https://github.com/PokeAPI/pokeapi",
+  "target": "https://github.com/madmaxlgndklr/pokeapi",
+  "task": "Mirror upstream branches and tags to target repo (preserving sync-logs branch), then append a timestamped run entry to sync-logs/sync.log"
+}

@@ -256,3 +256,9 @@ Status: success
 Branches updated: 0
 Tags updated: 0
 Notes: Fork already up-to-date with upstream PokeAPI/pokeapi; no refs needed updating.
+
+--- SYNC 2026-07-29 07:08:25 UTC ---
+Status: success
+Branches updated: 1
+Tags updated: 0
+Notes: master branch updated fb1605aa..dbef1b85; no new tags
